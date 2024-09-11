@@ -1,4 +1,4 @@
-# Modified FPS Microgame
+# Rolling Ball Track
 
 ## Description
 Submission of project 2 from the Introduction to Unity 3D module. The task involves creating a non-playable game that applies the following concepts: Prefabs, collisions, physics, and scene creation. My project stands out by using an isometric camera style, making the end point a volcano, and attempting to create a satisfying animation. 
